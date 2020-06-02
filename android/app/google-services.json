@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344004145971",
+    "firebase_url": "https://callforhelp-4ebcb.firebaseio.com",
+    "project_id": "callforhelp-4ebcb",
+    "storage_bucket": "callforhelp-4ebcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344004145971:android:4cb947b843a691f07a8446",
+        "android_client_info": {
+          "package_name": "com.soundarya.first_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344004145971-a8cch573mh7680d0bmltq99vbe68qbnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHntEI72PMMAJRJqIOvHeM45JGA-YHnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344004145971-a8cch573mh7680d0bmltq99vbe68qbnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
